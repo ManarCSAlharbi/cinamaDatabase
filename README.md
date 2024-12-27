@@ -29,7 +29,7 @@ Welcome to the **Cinema Database Project**! 🚀 This SQL project is designed to
 
 To run this project, ensure you have
 
-&#x20;MySQL / PostgreSQL / SQLite (or your preferred database system)
+- MySQL / PostgreSQL / SQLite (or your preferred database system)
 
 - A SQL-compatible client like DBeaver, pgAdmin, MySQL Workbench, or CLI tools.
 
