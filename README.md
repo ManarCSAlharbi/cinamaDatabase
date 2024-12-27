@@ -9,7 +9,8 @@ Welcome to the **Cinema Database Project**! 🚀 This SQL project is designed to
 3. [📄 Prerequisites](#-prerequisites)
 4. [🚀 Getting Started](#-getting-started)
 5. [🎯 Use Cases](#-use-cases)
-6. [📜 License](#-license)
+6. [ 🤝 Contributions](#-Contributions)
+7. [📜 License](#-license)
 
 ## 🌟 **Features**
 
@@ -64,7 +65,6 @@ To run this project, ensure you have
 ## 🤝 Contributions
 This project was collaboratively developed by me and my colleague. We worked together to design and implement the system, ensuring its functionality and reliability.
 
------
 
 ## 📜 **License**
 
