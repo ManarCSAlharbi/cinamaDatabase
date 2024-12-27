@@ -60,10 +60,14 @@ To run this project, ensure you have
 - 🍿 **Theater Scheduling**: Manage theater operations and screen scheduling.
 - 🎭 **Cast & Crew Analytics**: Explore relationships between actors, directors, and their projects.
 
----
+
+## 🤝 Contributions
+This project was collaboratively developed by me and my colleague. We worked together to design and implement the system, ensuring its functionality and reliability.
+
+-----
 
 ## 📜 **License**
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the terms of the license
 
-&#x20;Simplify cinema database management with this comprehensive solution for your entertainment data needs 🍿🎥
+- Simplify cinema database management with this comprehensive solution for your entertainment data needs 🍿🎥
